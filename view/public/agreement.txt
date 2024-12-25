@@ -1,0 +1,12 @@
+User Agreement Clause
+
+This living document will outline the rules when using SSR. SSR will stand for stupidly simple redirect, as well as I, US, and OURS will refer to this as well.
+
+Like the project, the rules are stupidly simple:
+- Do not use SSR to spread illegal content such as malware, child pornography, gore, and other illegal shit.
+- Do not DDOS SSR for fun. A cloud container is NOT cheap and I am operating this project for free.
+    - Using automated scripts to generate CUTs is okay, though please be mindful of the rate in which you are doing so and the CUTs you decide to occupy.
+- Any vulnerability within the software should be notified to I through either GitHub or my email, rain@rainwashed.xyz
+
+For any other questions about this stupidly simple list of rules, contact:
+rain@rainwashed.xyz

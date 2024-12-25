@@ -1,0 +1,21 @@
+Here is some information about SSR:
+
+The service is hosted on a DigitalOcean compute instance that has 1GB of memory, 2 vCPUs, and 25GB of disk space. The service is hosted as a Docker image and can be found on Dockerhub at https://hub.docker.com/r/rainwashed/ssr. I don't care if you host your own, and I believe that providing it as a Docker file is probably one of the easiest ways to setup it.
+
+Some technical details about the site.
+* The site was entirely programmed in TypeScript through a Vue.js frontend and a Elysia.js backend.
+* The runtime of the site is under Bun, and I had picked Elysia.js as it has first-class support for Bun.
+* Styling was done primary through a Vue port of shadcn, and I did not do much outside of the default styling.
+* The database solution is quite simple as Bun has their own SQLite API baked into their standard library, and so I used that to create a SQL database.
+
+Some questions you might have.
+
+Will this site be hosted forever?
+Yes, I hope so. However, nothing in life is free and the DigitalOcean instance costs 6 dollars a month, and it will likely cost more once more data is present in the databases. You can help me though by donating to my BuyMeACoffee link, which is in the footer of the website.
+
+What is the data-integrity of SSR?
+I don't intend to delete any data nor modify any data on the databases. The only viable reasons that would require me to delete a redirect is if it a) links to something illegal, or b) is bot spam. I have no intention on adding a report feature or such, so any complaints should go to my email: rain@rainwashed.xyz.
+
+Where is the GitHub?
+Right here: 
+https://github.com/rainwashed/ssredirect

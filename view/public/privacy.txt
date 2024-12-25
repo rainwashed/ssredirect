@@ -1,0 +1,20 @@
+Privacy Policy
+
+This living document will outline the privacy policy that I intend to follow regarding SSR. SSR will stand for stupidly simple redirect, as well as I, US, and OURS will refer to this as well.
+
+Like the project, the privacy policy is stupidly simple.
+
+Data we collect:
+- None
+
+Data we store:
+- Admin accounts with proper SHA256 and Salting techniques
+- The redirects obviously
+
+What we will use this data for:
+- Nothing
+
+However, it should be noted that this privacy policy does not include the privacy policy of our VPS providers. They may collect data and use it without the knowledge of and control of SSR.
+
+For any questions about this stupidly simple privacy policy, contact:
+rain@rainwashed.xyz

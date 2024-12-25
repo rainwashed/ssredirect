@@ -1,0 +1,1 @@
+This is necessary to have this directory be open as Bun SQLite requires that the folder exist in order to create the database files.

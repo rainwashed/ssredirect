@@ -1,0 +1,5 @@
+db/
+**/dist/
+*.lockb
+**/.vscode/
+**/node_modules/
